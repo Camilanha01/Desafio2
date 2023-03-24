@@ -33,7 +33,7 @@ if (elegir == "SI"){
     
     
     while (respuesta != "si" && respuesta != "no") {
-            respuesta = prompt('Invalido. Ingrese una respuesta correctamente: "SI" o "NO"').toLowerCase();
+            respuesta = prompt('Invalido. Ingrese una respuesta correctamente: "SI" o "NO"');
     }
     
     if ( respuesta === 'si') {
