@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(111, 111, 111);
+}
+
+h2{
+
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.precio{
+
+    color: rgba(0, 0, 0, 0.487);
+    text-align: center;
+}
+
+button {
+    margin-left: 90px;
+}
+
+
